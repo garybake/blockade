@@ -1,0 +1,23 @@
+{
+  "name": "blockade",
+  "version": "1.0.0",
+  "description": "Load testing of websites across long periods",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garybake/blockade.git"
+  },
+  "author": "garybake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garybake/blockade/issues"
+  },
+  "homepage": "https://github.com/garybake/blockade",
+  "dependencies": {
+    "lodash": "^3.7.0",
+    "request": "^2.55.0"
+  }
+}
