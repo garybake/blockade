@@ -14,9 +14,9 @@ var loginOptions = {
         'Content-Type': 'application/json'      
     },
     body: {
-        password: "password",
-        realm: "intraday",
-        username: "admin"
+        password: "xxx",
+        realm: "xxx",
+        username: "cc"
     },
     json: true,
 };
